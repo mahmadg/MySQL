@@ -1,0 +1,8 @@
+---
+- name: Installing database
+  hosts: vm165
+  tasks:
+    - name: installing mariadb
+      yum:
+        name: mariadb
+        state: latest
