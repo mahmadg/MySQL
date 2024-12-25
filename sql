@@ -23,4 +23,4 @@ INSERT INTO personal_info (Last_Name, First_Name, Address, City, state) values (
 
 INSERT INTO personal_info (Last_Name, First_Name, Address, City, state) values ('adam', 'salik', '123 xyz street', 'dallas', 'texas');
 INSERT INTO personal_info  (Last_Name, First_Name, Address, City, state) values ('sehar', 'khan', '2987 niagara falls blvd', 'niagara falls', 'new york');
-INSERT INTO personal_info  (Last_Name, First_Name, Address, City, state) values ('jeff', 'tukker', '789 ohio street', 'ohio city', 'ohio');
+INSERT INTO personal_info  (Last_Name, First_Name, Address, City, state) values ('jeff', 'tukker', '333 olivia street', 'benjman city', 'michigun');
